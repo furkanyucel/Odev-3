@@ -1,0 +1,38 @@
+body{
+    background-color:khaki;
+}
+
+span{
+    font-weight: bold;
+}
+
+#title{
+    color: crimson;
+}
+
+section{
+    width: 60%;
+    float: right;
+}
+
+li{
+    width: 95%;
+    margin-bottom: 0.5em;
+}
+
+.sub-title-1{
+    color: crimson;
+}
+
+.sub-title-2{
+    color: white;
+    padding: 0.1em 0.2em;
+    background-color: crimson;
+    border-radius: 1em;
+}
+
+#final{
+    float: right;
+    font-size: 1.5em;
+    font-weight: 400;
+}
